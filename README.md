@@ -1,6 +1,6 @@
-# Claude AI-API ( Unofficial )
+# This project is tested with BrowserStack
 This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI .
-
+https://github.com/KoushikNavuluri/Claude-API/compare/main...Yorad31:Claude-API:patch-1
 <img src="https://github.com/KoushikNavuluri/Claude-API/assets/103725723/385fa539-e725-4c20-86ff-0864e6ffab82" width="400">
 
 
